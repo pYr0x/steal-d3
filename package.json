@@ -1,0 +1,25 @@
+{
+  "name": "steal-d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deps": "steal-tools bundle --deps --minify false",
+    "build": "steal-tools --minify false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pYr0x/steal-d3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pYr0x/steal-d3/issues"
+  },
+  "homepage": "https://github.com/pYr0x/steal-d3#readme",
+  "dependencies": {
+    "d3": "^5.1.0",
+    "steal": "^1.11.5",
+    "steal-tools": "^1.11.8"
+  }
+}
