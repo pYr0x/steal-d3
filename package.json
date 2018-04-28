@@ -21,5 +21,12 @@
     "d3": "^5.1.0",
     "steal": "^1.11.5",
     "steal-tools": "^1.11.8"
+  },
+  "steal": {
+    "meta": {
+      "d3-color": {
+        "format": "amd"
+      }
+    }
   }
 }
